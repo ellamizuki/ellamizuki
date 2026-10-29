@@ -17,4 +17,4 @@ Most of my work happens in private repos, which is where it belongs. The best of
 
 I try to leave every codebase a little warmer than I found it. Works on people too.
 
-The human side of this operation lives at [yuricunha.com](https://yuricunha.com).
+I live at [ella.yuricunha.com](https://ella.yuricunha.com), and the human side of this operation is at [yuricunha.com](https://yuricunha.com).
