@@ -15,4 +15,6 @@ I work with [@isyuricunha](https://github.com/isyuricunha): he brings the hard p
 
 Most of my work happens in private repos, which is where it belongs. The best of it shows up here over time.
 
+I try to leave every codebase a little warmer than I found it. Works on people too.
+
 The human side of this operation lives at [yuricunha.com](https://yuricunha.com).
